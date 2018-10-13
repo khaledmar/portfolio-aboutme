@@ -1,0 +1,1 @@
+Projeto currículo web usando template bootstrap 4 e usando Jquery para carregar os dados dinamicamente lendo um objeto JSON.
