@@ -1,0 +1,202 @@
+{
+    "_id": {
+        "$oid": "5b11fc26770067101c92b510"
+    },
+    "name": "Khaled M.A.Rahaman",
+    "profile": "System Designer and BigData Solution",
+	"Description": "System analyst with experience in web application, service application and desktop. I have skills in modeling and data engineering, architecture and software design. Performing MBA Big Data and Machine Learning.",
+	"skills": [
+		{
+			"nameskill":".NET - C#",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"1"
+		},
+		{
+			"nameskill":"ASP NET",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"2"
+		}
+		,
+		{
+			"nameskill":".NET CORE",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"3"
+		},
+		{
+			"nameskill":"SQL SERVER",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"4"
+		},
+		{
+			"nameskill":"MYSQL",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"5"
+		}
+		,
+		{
+			"nameskill":"ORACLE",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"6"
+		},
+		{
+			"nameskill":"Javascript",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"7"
+		},
+		{
+			"nameskill":"Jquery",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"8"
+		}
+		,
+		{
+			"nameskill":"VueJs",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"9"
+		},
+		{
+			"nameskill":"Hadoop",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"10"
+		},
+		{
+			"nameskill":"Apache Spark",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"11"
+		}
+		,
+		{
+			"nameskill":"Map Reduce",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"12"
+		}
+	
+	]
+	,"languages": [
+		{
+			"namelanguages":"Portugues",
+			"levellanguages":"99",
+			"growup":"false",
+			"ordernumber":"1"
+		},
+		{
+			"namelanguages":"Ingles",
+			"levellanguages":"50",
+			"growup":"true",
+			"ordernumber":"2"
+		}
+	]
+	,"portfolio": [
+		{
+			"portfoliocategorie_id": "web_application",
+			"portfoliocategorie_name": "Web Application",
+			"portfolioitems": [
+				{
+					"nameportfolio": "webteste",
+					"linkportfolio": "http://www.google.com.br",
+					"date":"2018-09-17 22:42:50"
+				},
+				{
+					"nameportfolio": "webteste1",
+					"linkportfolio": "http://br.yahoo.com",
+					"date":"2018-09-17 22:42:50"
+				}
+			]
+		},
+		{
+			"portfoliocategorie_id": "application_service",
+			"portfoliocategorie_name": "Application Service",
+			"portfolioitems": [
+				{
+					"nameportfolio": "appteste",
+					"linkportfolio": "http://www.google.com.br",
+					"date":"2018-09-17 22:42:50"
+				},
+				{
+					"nameportfolio": "appteste1",
+					"linkportfolio": "http://br.yahoo.com",
+					"date":"2018-09-17 22:42:50"
+				}
+			]
+		}
+	]
+	,"somestats": {
+		{
+			"name": "Happy Clients",
+			"value": "310"
+		},
+		{
+			"name": "Hours of Work",
+			"value": "4700"
+		},
+		{
+			"name": "Awards Won",
+			"value": "30"
+		},
+		{
+			"name": "Years of Experience",
+			"value": "8"
+		}
+	}
+	,"experience": [
+		{
+			"employer":"CREATIVE AGENCY",
+			"ocupation":"UX Developer",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
+			"ordernumber":"1",
+			"period": {
+				"datein": "2017-10",
+				"dateout": "",
+				"presentday": "true"
+			}
+		},
+		{
+			"employer":"ALTERNATIVE AGENCY",
+			"ocupation":"UX Developer",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
+			"ordernumber":"2",
+			"period": {
+				"datein": "2016-10",
+				"dateout": "2017-10",
+				"presentday": "true"
+			}
+		}
+	]
+	,"education": [
+		{
+			"institution":"FIA INSTITUTE",
+			"course":"MBA in BigData and Machine Learning",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
+			"ordernumber":"1",
+			"period": {
+				"datein": "2018",
+				"dateout": "",
+				"presentday": "true"
+			}
+		},
+		{
+			"institution":"FATEC INSTITUTE",
+			"course":"Tecnology Degree in System Analysis",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
+			"ordernumber":"2",
+			"period": {
+				"datein": "2011",
+				"dateout": "2015",
+				"presentday": "false"
+			}
+		}
+	]	
+	
+}
