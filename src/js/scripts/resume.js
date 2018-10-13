@@ -2,116 +2,60 @@ var resume = {
     "_id": {
         "$oid": "5b11fc26770067101c92b510"
     },
-    "name": "Khaled M A Rahaman",
-    "profile": "Software and BigData Developer",
-	"Description": "System analyst and software developer with experience in web application, service application and desktop. I have skills in modeling and data engineering, architecture and software design. Performing graduate studies in Big Data and Machine Learning.",
+    "name": "John Doe",
+    "profile": "UX Designer & Front End Developer",
+	"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.",
 	
-	"urlimgbanner": "img/khaled.jpg",
-	"urlimgaboutme": "img/braincircuit.png",
+	"urlimgbanner": "img/intro-bg.jpg",
+	"urlimgaboutme": "img/about.png",
 	
-	"urlresumedownload": "khaled.pdf",
+	"urlresumedownload": "#",
 	
-	"AddressContact": "Rua Vander Augusto de Carvalho, 65 - Itapeceria da Serra, SP 06852-265",
-	"AddressUrlGmaps": "https://www.google.com.br/maps/place/R.+Vander+Augusto+de+Carvalho,+65+-+Parque+Paraiso,+Itapecerica+da+Serra+-+SP,+06852-265",
+	"AddressContact": "4321 California St, San Francisco, CA 12345",
+	"AddressUrlGmaps": "https://www.google.com.br/maps/place/4321+California+St,+San+Francisco,+CA+94118,+EUA",
 
-	"EmailContact": "khaledmar7@hotmail.com",
-	"PhoneNumberContact": "+55 11 9 8983 5432",
+	"EmailContact": "info@company.com",
+	"PhoneNumberContact": "+1 123 456 1234",
 
 
 
 	"skills": [
 		{
-			"nameskill":".NET - C#",
+			"nameskill":"HTML5",
+			"levelskill":"95",
+			"growup":"true",
+			"ordernumber":"7"
+		},
+		{
+			"nameskill":"CSS3",
+			"levelskill":"85",
+			"growup":"true",
+			"ordernumber":"7"
+		},
+		{
+			"nameskill":"JQuery",
 			"levelskill":"80",
 			"growup":"true",
-			"ordernumber":"1"
+			"ordernumber":"7"
 		},
 		{
-			"nameskill":"ASP NET",
+			"nameskill":"WordPress",
 			"levelskill":"80",
 			"growup":"true",
-			"ordernumber":"2"
-		}
-		,
+			"ordernumber":"7"
+		},
 		{
-			"nameskill":".NET CORE",
+			"nameskill":"Photoshop",
 			"levelskill":"70",
-			"growup":"true",
-			"ordernumber":"3"
-		},
-		{
-			"nameskill":"SQL SERVER",
-			"levelskill":"80",
-			"growup":"true",
-			"ordernumber":"4"
-		},
-		{
-			"nameskill":"MYSQL",
-			"levelskill":"70",
-			"growup":"true",
-			"ordernumber":"5"
-		}
-		,
-		{
-			"nameskill":"ORACLE",
-			"levelskill":"65",
-			"growup":"true",
-			"ordernumber":"6"
-		},
-		{
-			"nameskill":"Html",
-			"levelskill":"70",
-			"growup":"true",
-			"ordernumber":"7"
-		},
-		{
-			"nameskill":"CSS",
-			"levelskill":"65",
-			"growup":"true",
-			"ordernumber":"7"
-		},
-		{
-			"nameskill":"Javascript",
-			"levelskill":"75",
-			"growup":"true",
-			"ordernumber":"7"
-		},
-		{
-			"nameskill":"Jquery",
-			"levelskill":"75",
-			"growup":"true",
-			"ordernumber":"7"
-		},
-		{
-			"nameskill":"VueJs",
-			"levelskill":"50",
 			"growup":"true",
 			"ordernumber":"8"
 		}
 		,
 		{
-			"nameskill":"React",
-			"levelskill":"35",
+			"nameskill":"Illustrator",
+			"levelskill":"65",
 			"growup":"true",
 			"ordernumber":"9"
-		},
-		{
-			"nameskill":"Hadoop",
-			"levelskill":"40",
-			"growup":"true",
-			"ordernumber":"10"
-		},
-		{
-			"nameskill":"Apache Spark",
-			"levelskill":"45",
-			"growup":"true",
-			"ordernumber":"11"
-		},
-		{
-			"nameskill":"Map Reduce",
-			"levelskill":"45",
-			"growup":"true",
-			"ordernumber":"12"
 		}
 	
 	]
@@ -137,7 +81,7 @@ var resume = {
 				{
 					"nameportfolio": "Portfólio About Me",
 					"descportfolio": "Professional profile web site developed with html5 css, javascript and jquery",
-					"linkportfolio": "https://gitlab.com/knowmoreaboutme/frontend/js-design",
+					"linkportfolio": "https://github.com/khaledmar/portfolio-aboutme",
 					"date":"2018-09-17 22:42:50"
 				},
 				{
@@ -170,105 +114,115 @@ var resume = {
 	,"somestats": [
 		{
 			"name": "Happy Clients",
-			"value": "13",
+			"value": "310",
 			"delay": "200ms"
 		},
 		{
 			"name": "Hours of Work",
-			"value": "14112",
+			"value": "4700",
 			"delay": "400ms"
 		},
 		{
-			"name": "Projects",
-			"value": "18",
+			"name": "Awards Won",
+			"value": "30",
 			"delay": "600ms"
 		},
 		{
 			"name": "Years of Experience",
-			"value": "7",
+			"value": "8",
 			"delay": "800ms"
 		}
 	]
 	,"experience": [
 		{
-			"employer":"BANCO RENDIMENTO",
-			"ocupation":"BI Analyst and Backend Developer",
-			"description":"I participated in the BI project automating the accounting and apportionment process.",
+			"employer":"CREATIVE AGENCY",
+			"ocupation":"UX Developer",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
 			"ordernumber":"1",
 			"period": {
-				"datein": "OUT 2018",
+				"datein": "FEB 2013",
 				"dateout": "PRESENT",
 				"presentday": "true"
 			}
 		},
 		{
-			"employer":"BANCO RENDIMENTO",
-			"ocupation":"Backend Developer .NET",
-			"description":"I participated in the project as an analyst and backend developer in the support of the internet banking portal.",
-			"ordernumber":"2",
+			"employer":"CREATIVE AGENCY",
+			"ocupation":"Front-end Developer",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
+			"ordernumber":"1",
 			"period": {
-				"datein": "OUT 2017",
-				"dateout": "OUT 2018",
-				"presentday": "false"
+				"datein": "NOV 2011",
+				"dateout": "JAN 2013",
+				"presentday": "true"
 			}
 		},
 		{
-			"employer":"LIQ CONTAX",
-			"ocupation":"Backend Developer .NET",
-			"description":"I participated in the project as an analyst and backend developer in creating new products for the company.",
-			"ordernumber":"2",
+			"employer":"CREATIVE AGENCY",
+			"ocupation":"UX Designer",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
+			"ordernumber":"1",
 			"period": {
-				"datein": "MAI 2017",
-				"dateout": "OUT 2017",
-				"presentday": "false"
+				"datein": "DEC 2009",
+				"dateout": "MAY 2011",
+				"presentday": "true"
 			}
 		}
 	]
 	,"education": [
 		{
-			"institution":"FIA INSTITUTE",
-			"course":"Graduate Studies in BigData and Machine Learning",
-			"description":"",
+			"institution":"DESIGN UNIVERSITY",
+			"course":"Master Degree of Design",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
 			"ordernumber":"1",
 			"period": {
-				"datein": "2018",
-				"dateout": "PRESENT",
+				"datein": "2010",
+				"dateout": "2011",
 				"presentday": "true"
 			}
 		},
 		{
-			"institution":"FATEC INSTITUTE",
-			"course":"Technician’s license in System Analysis",
-			"description":"",
-			"ordernumber":"2",
+			"institution":"DESIGN UNIVERSITY",
+			"course":"Bachelor Degree of Design",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.",
+			"ordernumber":"1",
 			"period": {
-				"datein": "2011",
-				"dateout": "2015",
-				"presentday": "false"
+				"datein": "2007",
+				"dateout": "2010",
+				"presentday": "true"
 			}
 		}
 	]	
 	
 	,"socialnetwork": [
 		{
-			"name": "Linkedin",
-			"url": "https://br.linkedin.com/in/khaled-mohamad-abdul-rahaman-4987842a",
-			"icon": "fa-linkedin"
-		},
-		{
-			"name": "Github",
-			"url": "https://github.com/khaledmar",
-			"icon": "fa-github"
-		},
-		{
 			"name": "Facebook",
-			"url": "https://www.facebook.com/khaled.m.rahaman",
+			"url": "#",
 			"icon": "fa-facebook"
 		},
 		{
 			"name": "Twitter",
-			"url": "https://twitter.com/khaled_rahaman",
+			"url": "#",
 			"icon": "fa-twitter"
+		},
+		{
+			"name": "Dribbble",
+			"url": "#",
+			"icon": "fa-dribbble"
+		},
+		{
+			"name": "Github",
+			"url": "#",
+			"icon": "fa-github"
+		},
+		{
+			"name": "Instagram",
+			"url": "#",
+			"icon": "fa-instagram"
+		},
+		{
+			"name": "Linkedin",
+			"url": "#",
+			"icon": "fa-linkedin"
 		}
 	]
 }
